@@ -4,6 +4,9 @@ for i in range(1, limite+1):
     lista.append(f"{i}")
     print(" ".join(lista))
 
+for i in range(1, limite+1):
+    lista.pop()
+    print(" ".join(lista))
 # Cristian F. Chipana
 # Cristian Martinez Alejandro
 # Valentin Lluta Choque
