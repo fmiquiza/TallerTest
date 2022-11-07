@@ -14,17 +14,5 @@ for cadaFila in range(nroDeFilasPorTeclado, 0, -1):
         print(cadaColumna, end="*")
     
     print("\n")
+    print(cadaColumna, end="° "*nroDeFilasPorTeclado)
 
-
-
-
-
-
-
-
-    
-print("Esta solucion muy buena pero...")
-for multiplicar in range(nroDeFilasPorTeclado):
-    for num in range(nroDeFilasPorTeclado):
-        resul=+num
-        print(resul,"Jelouda")
