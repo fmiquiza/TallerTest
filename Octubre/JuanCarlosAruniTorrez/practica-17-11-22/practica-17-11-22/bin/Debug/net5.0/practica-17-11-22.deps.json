@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "practica-17-11-22/1.0.0": {
+        "runtime": {
+          "practica-17-11-22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practica-17-11-22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
